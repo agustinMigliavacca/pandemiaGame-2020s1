@@ -1,0 +1,34 @@
+TECLAS : 
+o : ver doctor
+
+p : ver personaje pandemia
+
+1 :  dia actual
+
+2 :  personas que viven en el barrio
+
+3 : personas infectadas en el barrio
+
+4 : personas con sintomas en el barrio
+
+8 : importar un caso // solo pandemia
+
+9 : avanzar un dia
+
+0 : avanzar 5 dias
+.......
+CONSULTAS QUE SOLO REALIZA EL DOCTOR
+
+Z : personas aisladas en el barrio
+
+X : personas aisladas en la manzana
+
+C : personas en cuarenteta en la manzana
+
+V : cantidad de personas en la manzana
+
+B : personas infectadas en la manzana
+
+N : aisla las personas con sintomas y dice cuantos hay
+
+M : CONVENCER A RESPERTAR CUARENTENA EN LA MANZANA
